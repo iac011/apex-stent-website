@@ -76,10 +76,10 @@
   <main class="container">
     <h2>Meet the Team</h2>
     <ul class="team-list">
-      <li><strong>Dr. Guanyu CAI</strong> - Postdoctoral Fellow, Materials Science - Project Lead</li>
-      <li><strong>Prof. XXX</strong> - Biomedical Engineering - Clinical & Materials Advisor</li>
-      <li><strong>Dr. YYY</strong> - Microfabrication Engineer - Manufacturing & Testing</li>
-      <li><strong>Ms. ZZZ</strong> - MSc Student - AI & Modeling</li>
+      <li><strong>Dr. Guanyu CAI</strong> - Postdoctoral Research Fellow, Materials Science - Project Lead</li>
+      <li><strong>Prof. Fan SUN</strong> - Materials Scienctist - ANR project PI</li>
+      <li><strong>Prof. Yun LUO</strong> - Nanomaterials Scienctist - ANR project Co-PI</li>
+      <li><strong>MSc Student - AI & Modeling</li>
     </ul>
   </main>
   <footer><div class="container">&copy; 2025 APEX Stent Team</div></footer>
